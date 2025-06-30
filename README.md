@@ -1,4 +1,3 @@
-```markdown
 # Resume Builder Assignment
 
 A web-based resume editor that lets users upload, edit, and enhance their resumes with a mock AI backend, save and retrieve resume data via a FastAPI backend, and download the final resume as JSON.
@@ -12,21 +11,12 @@ A web-based resume editor that lets users upload, edit, and enhance their resume
 
 ## Repository Structure
 
-```
+
 
 Resume-Builder-Assignment/
-├── backend/
-│   ├── main.py
-│   ├── requirements.txt
-│   └── (other backend modules)
-├── src/                   ← Frontend source (Vite + React)
-│   ├── App.tsx
-│   ├── components/
-│   └── ...
-├── package.json           ← Frontend config
-├── tsconfig.json          ← Frontend TypeScript config
-├── README.md
-└── .gitignore
+
+![image](https://github.com/user-attachments/assets/42c38b2e-b075-4b2c-9b86-a0398379c10f)
+
 
 ```
 
